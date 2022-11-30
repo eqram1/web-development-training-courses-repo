@@ -8,7 +8,7 @@ const Banner = () => {
                 <div>
                     <h1 className="text-5xl font-bold">React Tutorial News!</h1>
                     <p className="py-6">In this React Tutorial,We are commited to everyone for best trainning from our best.From previous succes histories we are prouded.We wish your bright furure.</p>
-                    <button className="btn btn-primary">Get premium access </button>
+                    <button className="btn btn-primary bg-gradient-to-r from-primary to-secondary text-white">Get premium access </button>
                 </div>
             </div>
         </div>

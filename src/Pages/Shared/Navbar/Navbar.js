@@ -4,7 +4,7 @@ import logo from '../../../assets/icons/logo.svg';
 const Navbar = () => {
 
     const menuItems = <React.Fragment>
-        <li><Link to="/">Courses</Link></li>
+        <li><Link to="/">Home</Link></li>
         <li><Link to="/faq">FAQ</Link></li>
         <li><Link to="/admission">Admission</Link></li>
         <li><Link to="/blog">Blog</Link></li>
