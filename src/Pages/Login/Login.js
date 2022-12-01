@@ -9,7 +9,7 @@ const Login = () => {
     return (
         <div className='h-[900 px] flex justify-center items-center'>
             <div className='w-96 p-8'>
-                <h2 className='text-6xl'>Log in</h2>
+                <h2 className='text-6xl text-center'>Log in</h2>
                 <form onSubmit={handleSubmit((data) => setData(JSON.stringify(data)))}>
                     <div className="form-control w-full max-w-xs">
                         <label className="label"><span className="label-text">Email</span></label>
