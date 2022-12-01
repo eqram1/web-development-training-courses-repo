@@ -1,5 +1,6 @@
 import React from 'react';
-import Admission from '../Admission/Admission';
+import Admissions from '../Admission/Admissions';
+
 
 import Banner from '../Banner/Banner';
 import Blog from '../Blog/Blog';
@@ -11,7 +12,7 @@ const Home = () => {
         <div className='mx-5'>
             <Banner></Banner>
             <LearningCards></LearningCards>
-            <Admission></Admission>
+            <Admissions></Admissions>
             <Faq></Faq>
             <Blog></Blog>
         </div>
