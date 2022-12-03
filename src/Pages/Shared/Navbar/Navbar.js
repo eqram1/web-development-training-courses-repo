@@ -22,7 +22,7 @@ const Navbar = () => {
                         {menuItems}
                     </ul>
                 </div>
-                <Link className="btn btn-ghost normal-case text-xl">React Tutorial</Link>
+                <Link className="btn btn-ghost normal-case text-xl">fancyTutorial</Link>
                 <img src={logo} alt="" />
             </div>
             <div className="navbar-center hidden lg:flex">
